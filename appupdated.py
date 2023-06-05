@@ -1,5 +1,4 @@
-git clone git://github.com/statsmodels/statsmodels.git
-
+-m pip install statsmodels
 
 import pandas as pd
 import numpy as np
