@@ -1,3 +1,5 @@
+install_requires=['pandas', 'numpy', 'scipy', 'statsmodels', 'humanize', 'requests', 'matplotlib' ]
+
 
 import pandas as pd
 import numpy as np
