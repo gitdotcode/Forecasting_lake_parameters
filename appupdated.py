@@ -1,4 +1,3 @@
-pip install statsmodels
 
 import pandas as pd
 import numpy as np
