@@ -1,5 +1,4 @@
 install_requires=['pandas', 'numpy', 'scipy', 'statsmodels', 'humanize', 'requests', 'matplotlib' ]
-import json
 
 import pandas as pd
 import numpy as np
