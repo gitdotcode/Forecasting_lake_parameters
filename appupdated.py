@@ -7,7 +7,7 @@ import streamlit as st
 import pickle
 from pickle import dump
 from pickle import load
-import statsmodels
+
 
 from statsmodels.tsa.seasonal import seasonal_decompose
 from statsmodels.tsa.holtwinters import SimpleExpSmoothing
